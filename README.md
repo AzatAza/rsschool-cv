@@ -1,1 +1,1 @@
-# https://AzatAza.github.io/rsschool-cv/index
+# https://AzatAza.github.io/rsschool-cv/
