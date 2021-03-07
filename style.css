@@ -1,0 +1,67 @@
+* {
+  padding-left: 5px;
+}
+
+body {
+  font-family: Lato, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+
+.header {
+}
+
+.name {
+  float: left;
+  width: 300px;
+  min-height: 50px;
+  margin: 20px;
+}
+
+.avatar {
+  float: right;
+  width: 500px;
+  min-height: 50px;
+}
+
+.container {
+}
+
+.contacts {
+  float: left;
+  width: 300px;
+  padding-left: 10px;
+  margin-right: 50px;
+  min-height: 50px;
+}
+
+.experience {
+  float: left;
+  max-width: 700px;
+  min-height: 50px;
+}
+
+.skills {
+  float: left;
+  max-width: 1000px;
+}
+
+.footer {
+  float: left;
+  width: 100%;
+}
+
+.aboutMe {
+}
+
+.icon {
+  margin: 5px;
+  max-width: 100%;
+  height: auto;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
