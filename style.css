@@ -19,7 +19,7 @@ body {
 }
 
 .avatar {
-  float: right;
+  float: auto;
   width: 500px;
   min-height: 50px;
 }
